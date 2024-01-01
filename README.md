@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Elliott. 👋
+![status](https://api.statusbadges.me/badge/status/338232948237139981?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/338232948237139981)
+[![spotify](https://api.statusbadges.me/badge/spotify/338232948237139981)](https://api.statusbadges.me/openspotify/338232948237139981)
+
 
 <!--
 **noibs/noibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
